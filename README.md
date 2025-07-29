@@ -11,7 +11,7 @@
   
   *AI-powered medical imaging for early disease detection and diagnosis*
   
-  🏥 **Medical AI** | 🧠 **Brain Tumor Detection** | 📊 **Multi-Disease Classification** | 🎯 **Computer Vision**
+  🏥 **Medical AI** | 🧠 **Brain Tumor Detection** | 📊 **Multi-Disease Classification** 
   
 </div>
 
